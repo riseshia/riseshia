@@ -1,2 +1,4 @@
-Software Engineer.
-Interest: Web, Server-side development, Infrastructure.
+Shia
+
+- Software Engineer
+- Interest: Web, Server-side development, Infrastructure
