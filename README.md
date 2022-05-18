@@ -1,4 +1,4 @@
 Shia
 
 - Software Engineer
-- Interest: Web, Server-side development, Infrastructure
+- Interest: Web, Development Experience, Infrastructure
