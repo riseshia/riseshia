@@ -1,4 +1,4 @@
 Shia
 
-- Software Engineer
+- Software Engineer at @STORES
 - Interest: Web, Development Experience, Infrastructure
